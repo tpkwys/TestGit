@@ -10,6 +10,7 @@ package com.aaron;
 public class test {
     public static void main(String[] args) {
         System.out.println("HI master");
+        System.out.println("HI release1.0");
     }
 
 }
